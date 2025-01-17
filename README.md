@@ -1,2 +1,2 @@
 # Projekt-INF2TA
-Projekt-INF2TA
+Yelyzaveta Polytsia 2TA
